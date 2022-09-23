@@ -1,0 +1,18 @@
+https://da7f-94-246-109-122.eu.ngrok.io
+https://671a-94-246-109-122.eu.ngrok.io
+https://4d51-94-246-109-122.eu.ngrok.io
+https://cf26-94-246-109-122.eu.ngrok.io
+https://c229-94-246-109-122.eu.ngrok.io
+https://b658-94-246-109-122.eu.ngrok.io
+
+How to modify the request header with the ngrok-skip-browser-warning key and a random value
+
+
+ngrok http --request-header-add 'ngrok-skip-browser-warning:${0}' 3000
+
+--request-header-add strings 	header key:value to add to request
+
+x-content-type-options:nosniff
+
+pizza joint - net ninja
+https://www.youtube.com/watch?v=2V1WK-3HQNk&list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i&index=1
